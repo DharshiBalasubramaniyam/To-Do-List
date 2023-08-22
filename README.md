@@ -1,5 +1,6 @@
 # To-Do-List
-This is a simple to do list app using HTML, CSS and JavaScript
+This is a simple to do list app using HTML, CSS and JavaScript.
+
 The main features of this project are,
 - User can add tasks
 - User can delete tasks
