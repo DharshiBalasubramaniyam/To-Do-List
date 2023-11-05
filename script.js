@@ -5,7 +5,7 @@ let select = document.getElementById("select");
 console.log(select);
 
 const activities = tasklist.childNodes;
-select.addEventListener("click", (e) => {
+select.addEventListener("change", (e) => {
     console.log(activities);
 
     activities.forEach(function (todo) {
